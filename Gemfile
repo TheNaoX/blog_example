@@ -6,6 +6,8 @@ gem 'sqlite3'
 
 gem 'haml'
 
+# Authentication
+gem 'devise'
 
 group :development do
   gem 'haml-rails'
